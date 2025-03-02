@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: #202020;
+}
+img {
+    width: 150px;
+    height: 200px;
+}
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
